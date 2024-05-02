@@ -18,10 +18,3 @@
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
-### Github Stats :
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=kerolzeeq&show_icons=true&theme=react">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerolzeeq&layout=compact&theme=react&langs_count=8">
-</p>
-
